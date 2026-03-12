@@ -23,7 +23,7 @@ This project is a Python-based price list management system that allows users to
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/python-price-list-generator.git
+git clone https://github.com/abdullah-arain9/python-price-list-generator
 
 2. Go to the project folder:
 
